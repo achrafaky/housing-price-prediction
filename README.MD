@@ -15,7 +15,7 @@
 Voici la performance actuelle de notre modèle **Decision Tree Regressor**.
 L'objectif est d'aligner les points bleus sur la ligne rouge pointillée (prédiction parfaite).
 
-![Performance Modèle](images/prediction_vs_realite.png)
+![Performance Modèle](prediction_vs_realitE.png)
 
 *Comme on peut le voir, le modèle suit la tendance générale mais fait des erreurs sur les maisons très chères (valeurs aberrantes).*
 
@@ -25,7 +25,7 @@ L'objectif est d'aligner les points bleus sur la ligne rouge pointillée (prédi
 
 Avant de prédire, nous avons analysé la distribution des prix. La plupart des maisons se situent entre **100k$ et 200k$**.
 
-![Distribution Prix](images/distribution_prix.png)
+![Distribution Prix](distribution_prix.png)
 
 ---
 
